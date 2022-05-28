@@ -1,0 +1,5 @@
+aiogram==2.18
+boto3==1.21.29
+botocore==1.24.29
+requests==2.23.0
+
